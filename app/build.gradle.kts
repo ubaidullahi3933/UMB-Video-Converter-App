@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.umbtech.videoconverter"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.umbtech.videoconverter"
